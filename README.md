@@ -7,7 +7,7 @@ How far can you go?
 
 # Instructions
 
-This game is made using Turbo C++.
+This game is made using Turbo C++, as part of a CS School Project.
 There is a ball (Blue) which is to be controlled using your arrow keys. The ball can be moved only inside the white rectangle. Make sure that you don’t touch the red lines. As you will loose a life when you do so You have three lives.
 Necessary instructions will be displayed in the beginning.
 There will also be a timer (rectangle at the right side with a bar sliding downwards). You’ve lost a life you don’t finish before the bar in the timer reaches the end. You can Quit anytime by pressing ‘Q’.
